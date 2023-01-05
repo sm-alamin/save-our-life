@@ -100,3 +100,53 @@
     padding:10px;
     
 }
+ /* donation plan */
+ .donation-plan{
+    margin: 50px 0;
+ }
+ .donation-plan h1{
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 65px;
+    color: #060505;
+    text-align: center;
+ }
+ .donation-plan p{
+    font-family: 'Poppins', sans-serif;
+    color: #4b4747f8;
+    font-size: 18px;
+    text-align: center;
+ }
+ .donation-category{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin:40px 0;
+    
+ }
+ .donation-category p,h1{
+    text-align: left;
+    margin-top: 20px;
+    
+ }
+ .donation-category img{
+    margin-bottom: 20px;
+ }
+ .food{
+    background-color: #EDF5F6;
+    padding:30px;
+    width:350px;
+    height:300px;
+ }
+.shelter{
+    background-color: #FFEEEE;
+    padding:30px;
+    width:350px;
+    height:300px;
+}
+.education{
+    background-color: #FFF4D6;
+    padding:30px;
+    width:350px;
+    height:300px;
+}
