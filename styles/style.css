@@ -150,3 +150,32 @@
     width:350px;
     height:300px;
 }
+/* contribute */
+.contribute{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    flex-wrap: wrap;
+}
+.contribution-text{
+    width: 45%;
+    text-align: left;
+}
+.contribution-image img{
+    width: 400px;
+}
+.contribution-text h1{
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 65px;
+    color: #060505;
+
+}
+.contribution-text p{
+    font-family: 'Poppins', sans-serif;
+    color: #4b4747f8;
+    font-size: 18px;
+    margin-top: 20px;
+
+}
